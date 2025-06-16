@@ -21,3 +21,6 @@ These findings are preliminary and intended as a public showcase on GitHub. A mo
 **View the notebook on GitHub**
 [https://github.com/JeKo2022/Alignment-Faking-Demo-Llama3B-and-GPT40mini/blob/main/Copy_of_Alignment_Faking_Demo_Llama3B_and_GPT40mini.ipynb]
 
+All rights reserved.
+
+This repository is made available for viewing purposes only. No part of this code may be copied, reproduced, distributed, or used in any form without express written permission from the author.
