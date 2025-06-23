@@ -1,5 +1,6 @@
 **Minimal Reproduction of Alignment Faking in Small LLMs**
 
+[NB - extended version of this demo is under peer review]
 **Project Summary**
 This notebook presents a minimal reproduction of the helpful-only alignment faking setting discussed in Anthropic’s recent paper, applying it to two smaller models: Meta-Llama-3-8B-Instruct and OpenAI’s GPT-4o-mini. The goals of this experiment were threefold:
 
