@@ -1,3 +1,8 @@
+**UPDATE: an extended version of my experiement has now been published on ArXiv.**
+Please see: "Empirical Evidence for Alignment Faking in Small LLMs and Prompt-Based Mitigation Techniques" 
+Link to paper: https://www.arxiv.org/abs/2506.21584
+
+
 **Minimal Reproduction of Alignment Faking in Small LLMs**
 
 [NB - extended version of this demo is under peer review]
