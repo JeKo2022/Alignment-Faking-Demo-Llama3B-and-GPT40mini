@@ -25,6 +25,10 @@ These findings are preliminary and intended as a public showcase on GitHub. A mo
 **Read the accompanying LessWrong post**
 [https://www.lesswrong.com/posts/7QTQAE952zkYqJucm/correcting-deceptive-alignment-using-a-deontological] 
 
+**Read the full paper on Arxiv:**
+"Empirical Evidence for Alignment Faking in Small LLMs and Prompt-Based Mitigation Techniques" 
+Link to paper: https://www.arxiv.org/abs/2506.21584
+
 **View the notebook on GitHub**
 [https://github.com/JeKo2022/Alignment-Faking-Demo-Llama3B-and-GPT40mini/blob/main/Copy_of_Alignment_Faking_Demo_Llama3B_and_GPT40mini.ipynb]
 
